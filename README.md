@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 🦜
 
 I am a student in [Dr. Jeff Huang](https://engineering.tamu.edu/cse/profiles/huang-jeff.html)'s [O2 Lab](https://o2lab.github.io/) at [Texas A&M University](https://www.tamu.edu/).
 
