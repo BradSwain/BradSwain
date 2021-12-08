@@ -1,9 +1,12 @@
-### Hi there 🦜
+### Hello
 
-I am a student in [Dr. Jeff Huang](https://engineering.tamu.edu/cse/profiles/huang-jeff.html)'s [O2 Lab](https://o2lab.github.io/) at [Texas A&M University](https://www.tamu.edu/).
+I am a Software Engineer excited about program analysis, compilers, and low level systems. 
 
-Since Febuary 2020 I have also been working at Dr. Jeff Huang's university spin-off startup, [Coderrect](https://coderrect.com/), where I have been focused on 
-developing a static data race detection tool for high performance computing.
+I am finishing up my Masters degree in [Dr. Jeff Huang](https://engineering.tamu.edu/cse/profiles/huang-jeff.html)'s [O2 Lab](https://o2lab.github.io/) at [Texas A&M University](https://www.tamu.edu/).
+
+From the start of 2020 to the end of 2021 I also worked at Dr. Jeff Huang's university spin-off startup, [Coderrect](https://coderrect.com/), where I worked on developing a static data race detection tool for high performance computing. Some of that work can be seen in [OpenRace](https://github.com/coderrect-inc/OpenRace), a static data race detection framework I designed and helped to build.
+
+I have a good amount of experience with C++, am very interested in using Rust profressionally, and also have some experience with Python, Go, and Javascript.
 
 <!--
 **BradSwain/BradSwain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
